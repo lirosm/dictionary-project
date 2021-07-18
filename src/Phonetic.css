@@ -2,10 +2,6 @@
     height: 60px;
 }
 
-
-
-
-
 .Phonetic a {
     border: 1px solid #ddd;
     text-decoration: none;
@@ -17,7 +13,7 @@
 }
 
 .Phonetic a:hover{
-    background: purple;
+    background: rgb(145, 85, 145);
     color: white;
 }
 

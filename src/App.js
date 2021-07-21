@@ -11,19 +11,20 @@ export default function App() {
         </main>
         <footer className="App-footer">
           <small>
+            Open-source code onn
              <a
-                href="https://github.com/lirosm/Vanilla-weather-app"
+                href="https://github.com/lirosm/dictionary-project"
                 target="_blank"
                 rel="noreferrer"
               >  
-              Open-source code  
+                GitHub
               </a>
-         , by Liridona Osmani 
-         <a  href="https://github.com/lirosm/Vanilla-weather-app"
+         , coded by Liridona Osmani, 
+   
+               hosten on <a  href="https://github.com/lirosm/Vanilla-weather-app"
                 target="_blank"
                 rel="noreferrer"
-                >
-                  , hosten on Netlify
+                > Netlify
                 </a>
             </small>
         </footer>

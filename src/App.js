@@ -21,7 +21,7 @@ export default function App() {
               </a>
          , coded by Liridona Osmani, 
    
-               hosten on <a  href="https://github.com/lirosm/Vanilla-weather-app"
+               hosten on <a  href="https://vigorous-hawking-15099f.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
                 > Netlify
